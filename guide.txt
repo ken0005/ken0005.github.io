@@ -1,0 +1,23 @@
+Project
+
+https://www.figma.com/design/gmXis7OrxwNrJPel6H5pKJ/Personal-Portfolio-Website-Template--Community-
+
+css flex
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+css grid - advance of flex
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+media queries
+
+@media (min-width: 576px) {
+	display: none;
+}
+
+
+practice
+
+https://flexboxfroggy.com/
+
